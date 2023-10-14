@@ -1,3 +1,4 @@
 from calc import add
 
-print(add(5,7))
+result = add(5,7)
+print(result)
